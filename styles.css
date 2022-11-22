@@ -1,0 +1,29 @@
+img{
+    max-width: 80px;
+}
+
+#header{
+border-bottom: 1px solid rgb(209, 204, 204);
+}
+
+img{
+    border-radius: 50px;
+}
+
+#section1{
+padding-bottom: 16px;
+border-bottom: 1px solid #ccc;
+}
+#section2{
+    padding-bottom: 16px;
+    border-bottom: 1px solid #ccc;
+    }
+#section3{
+    padding-bottom: 16px;
+    border-bottom: 1px solid #ccc;
+    }
+
+footer{
+    padding-top: 16px;
+}
+    
